@@ -129,7 +129,7 @@ def send_mail():
 def open_txt():
     filepath = 'today_news.txt'
     if platform.system() == 'Darwin':  # macOS
-        os.system('clear')
+        subprocess.call(('open', filepath))
     elif platform.system() == 'Windows':  # Windows
         os.startfile(filepath)
     else:  # linux variants
