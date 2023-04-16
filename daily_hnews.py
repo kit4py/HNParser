@@ -129,7 +129,7 @@ def send_mail():
 def open_txt():
     filepath = 'today_news.txt'
     if platform.system() == 'Darwin':  # macOS
-        subprocess.call(('open', filepath))
+        os.system('clear')
     elif platform.system() == 'Windows':  # Windows
         os.startfile(filepath)
     else:  # linux variants
@@ -137,6 +137,14 @@ def open_txt():
 
 
 if __name__ == '__main__':
+    os.system('clear')
+    print('''
+   __ ___  _____                     
+  / // / |/ / _ \___ ___________ ____
+ / _  /    / ___/ _ `/ __(_-/ -_/ __/
+/_//_/_/|_/_/   \_,_/_/ /___\__/_/   
+                                         
+''')
     task = int(input('''
 [1] send results to email
 [2] show results in txt
