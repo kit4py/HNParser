@@ -20,4 +20,5 @@ Important: In order to be able to send email you will need to get an App Passwor
 7. Paste receiver email to EMAIL_TO_RECEIVE
 
 Usage:
-1. python3 daily_hnews.py
+
+python3 daily_hnews.py
