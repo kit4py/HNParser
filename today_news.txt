@@ -1,0 +1,12 @@
+{'title': 'The early days of Linux', 'link': 'https://lwn.net/SubscriberLink/928581/841b747332791ac4/', 'votes': 1294}
+{'title': 'Why does a plastic-wrapped turkey sandwich cost $15 at the NYC airport?', 'link': 'https://hellgatenyc.com/why-is-airport-turkey-sandwich-expensive', 'votes': 574}
+{'title': 'Lofi air traffic control – LAX', 'link': 'https://www.lofiatc.com/?icao=KLAX', 'votes': 550}
+{'title': 'Aztec monks with 1/55 HP no longer die when picking up or dropping a relic', 'link': 'https://www.reddit.com/r/Games/comments/12jbb9d/age_of_empires_ii_de_major_update_81058/jfy2mqq/', 'votes': 502}
+{'title': 'Dishwasher Salmon', 'link': 'https://en.wikipedia.org/wiki/Dishwasher_salmon', 'votes': 418}
+{'title': 'WebGPU Fundamentals', 'link': 'https://webgpufundamentals.org/', 'votes': 400}
+{'title': "Future Blues – Emily's Cowboy Bebop Page (1999)", 'link': 'https://futureblues.com/', 'votes': 299}
+{'title': 'The Red Hat model only worked for Red Hat', 'link': 'https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/', 'votes': 285}
+{'title': 'Exercism – learn programming languages for free', 'link': 'https://exercism.org/', 'votes': 246}
+{'title': 'OpenAssistant Conversations – Democratizing Large Language Model Alignment [pdf]', 'link': 'https://www.ykilcher.com/OA_Paper_2023_04_15.pdf', 'votes': 236}
+{'title': 'Web LLM – WebGPU Powered Inference of Large Language Models', 'link': 'https://github.com/mlc-ai/web-llm', 'votes': 233}
+{'title': 'Hexagony: A two-dimensional, hexagonal programming language', 'link': 'https://github.com/m-ender/hexagony', 'votes': 215}
