@@ -2,12 +2,13 @@
 Parsing Hacker News and sending results per email
 
 Installation:
+```
 1. git clone
 2. cd HNParser/
 3. python3 -m venv venv # create virtual environment
 4. . venv/bin/activate (.fish # if you're using fish)
 5. pip3 install -r requirements.txt
-
+```
 
 Important: In order to be able to send email you will need to get an App Password from Gmail:
 1. Go to Google Accounts Page
